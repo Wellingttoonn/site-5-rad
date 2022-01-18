@@ -2,4 +2,4 @@
 
 Product landing page. Made with HTML, CSS and JS.
 
-Link: https://wellingttoonn.github.io/site-5-rad/
+Link: https://wellingttoonn.github.io/site05-radiance/
